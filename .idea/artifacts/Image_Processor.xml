@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Image-Processor">
+    <output-path>$PROJECT_DIR$/out/artifacts/Image_Processor</output-path>
+    <root id="archive" name="Image-Processor.jar">
+      <element id="module-output" name="Image-Processor" />
+    </root>
+  </artifact>
+</component>
